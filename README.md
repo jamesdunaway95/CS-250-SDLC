@@ -2,7 +2,6 @@
 Repository for CS-250-T3201 Software Development Lifecycle 21EW3 at SNHU
 
 **Final Project**
-James Dunaway
 
 Our team was tasked with tackling the SNHU Travel project utilizing an Agile methodology as opposed to the company standard waterfall methodology. We have made it to the end of the five-week development cycle and to the final Sprint Review and Retrospective. Each role was integral to the success of the transition. I, as the scrum master, planned and facilitated the scrum meetings, held the team accountable, and bridged the gap between the developer(s)/tester(s) and the product owner. The product owner communicated directly with the end-users and stakeholders and maintained the product backlog. In opposition to the waterfall methodology, this is an essential part of the process that provided the team with feedback from the users and gave the developer(s) and tester(s) the information necessary for their work. The tester(s) worked closely with the product owner to create test cases and assisted the developers to ensure the cases were being implemented properly throughout development. Finally, our developers embraced the agile methodology by implementing modular programming practices and adapting to changes as quickly and efficiently while also communicating with each other and others to ensure the product met all requirements.
 
